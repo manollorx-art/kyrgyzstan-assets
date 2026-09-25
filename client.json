@@ -1,7 +1,5 @@
 {
-"ip": "185.189.15.89",
-"port": 7777,
-"cache_url":
-"https://raw.githubusercontent.com/manollorx-art/kyrgyzstan-assets/mai
-n/cache.zip"
+  "ip": "185.189.15.89",
+  "port": 7777,
+  "cache_url": "https://raw.githubusercontent.com/manollorx-art/kyrgyzstan-assets/main/cache.zip"
 }
